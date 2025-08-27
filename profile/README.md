@@ -1,5 +1,5 @@
 ## Hi there 👋
-The Organization is the GitHub organization for **Saurer Intelligent Technology AG**.
+This Organization is the GitHub organization for **Saurer Intelligent Technology AG**.
 If you are a Saurer Employee, Customer, or Contractor and need access to this organization, create a new issue in this repository using the "Join SaurerAG" Issue Template.
 
 <!--
